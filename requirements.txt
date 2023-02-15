@@ -1,6 +1,6 @@
 Flask==0.10.1
 Flask-Limiter==0.7.9
-Werkzeug==0.10.4
+Werkzeug==2.2.3
 gunicorn==19.3.0
 python-magic==0.4.6
 SQLAlchemy==1.0.6
